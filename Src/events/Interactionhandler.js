@@ -18,6 +18,9 @@ const ai = new GoogleGenAI({ apiKey: process.env.GOOGLE_API_KEY });
  * @param {Object} interaction - The Discord.js Interaction object
  * @param {Object} aiStream - The live Gemini stream response object
  */
+
+//Do NOT CHANHGE ANY CODE OR FILE I AM NOT RESPONSIBLE FOR THE CODE BROKEN AFTER YOUR CHANGE. Do not chanage the Comments also do not take any risk
+
 async function streamText(interaction, aiStream) {
   let currentText = "";
   let lastDiscordUpdate = Date.now();
