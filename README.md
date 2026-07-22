@@ -83,5 +83,4 @@ Discord username: @roblox_gamer6264
 Website: Coming soon
 
 Made By Mahad Amin.
-2026 © copyright
-This code is open source but any modification is considered as a crime. reselling this code is not Allowed. DMCA takedown request will be committed. Any Modification will make your source illegal and community support will be Not be provided.
+2026®
