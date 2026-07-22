@@ -87,7 +87,7 @@ module.exports = async (interaction) => {
     }
 
     if (interaction.customId.startsWith('claim_call_')) {
-        await interaction.deferUpdate(); // ✅ acknowledge within 3s, buys up to 15 min for the DB/DM work below
+        await interaction.deferUpdate(); 
 
         const callId = interaction.customId.split('claim_call_')[1];
         const call = await Call.findById(callId);
