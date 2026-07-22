@@ -1,4 +1,4 @@
-``` This project took me 1 week expect bugs improvements will be made as time passes ```
+``` This project took me 1 week, expect bugs, improvements will be made as time passes ```
 
 # RP-Bot-Project
 
